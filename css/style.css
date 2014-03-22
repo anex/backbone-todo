@@ -1,0 +1,10 @@
+.div_sombra{-webkit-box-shadow:0 10px 6px -6px #777777;-moz-box-shadow:0 10px 6px -6px #777777;box-shadow:0 10px 6px -6px #777777;}
+.div_sombra2{position:relative;-webkit-box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;-moz-box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;}
+.border{border:2px solid #000000;-moz-border-radius:44px 44px 44px 44px;-webkit-border-radius:44px 44px 44px 44px;border-color:gray;}
+body{text-align:center;background-color:black;}
+#all{width:50%;text-align:center;padding:20px;background-color:#f7ef57;margin:0 auto;border:2px solid #000000;-moz-border-radius:44px 44px 44px 44px;-webkit-border-radius:44px 44px 44px 44px;border-color:gray;}
+#list{margin:10 auto;width:50%;}
+#task{margin:8 auto;background-color:#f7ef57;height:20px;padding:3px;border:2px solid #000000;-moz-border-radius:44px 44px 44px 44px;-webkit-border-radius:44px 44px 44px 44px;border-color:gray;-webkit-box-shadow:0 10px 6px -6px #777777;-moz-box-shadow:0 10px 6px -6px #777777;box-shadow:0 10px 6px -6px #777777;}
+h1{font-size:33px;}
+input#new-todo{width:80%;height:40px;font-size:29px;}
+.remove{float:right;cursor:pointer;width:20px;height:20px;background:url(../images/destroy.png) no-repeat;margin-right:10px;}
